@@ -10,14 +10,6 @@ This template is free to use, modify, and distribute for personal or commercial 
 - Optimized image assets  
 - Cross-browser compatibility  
 
-## File Structure
-│── index.html
-│── css/
-│ ├── all.min.css
-│ ├── kasper.css
-│ ├── normalize.css
-│── images/
-│── ...
 ## Attribution
 This template is adapted from **Kasper - Graphberry**.  
 Modified and shared by **Mohammed Saeed**.
